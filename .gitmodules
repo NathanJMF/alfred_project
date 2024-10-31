@@ -1,0 +1,6 @@
+[submodule "alfred_flask"]
+	path = alfred_flask
+	url = https://github.com/NathanJMF/alfred_flask
+[submodule "alfred_react"]
+	path = alfred_react
+	url = https://github.com/NathanJMF/alfred_react
